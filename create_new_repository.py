@@ -1,4 +1,3 @@
-import sys
 import os
 import logging
 from github import Github
